@@ -20,14 +20,14 @@ Deliverable 4: Visualizing Cryptocurrencies Results
 
 ## Results:
 
-1- Clustering Cryptocurrencies Using K-Means and finding the Best Value for "k" using an Elbow Curve:
+- Clustering Cryptocurrencies Using K-Means and finding the Best Value for "k" using an Elbow Curve:
 
 ![elbow](https://user-images.githubusercontent.com/88908758/147253045-8a3236af-81f3-4510-9532-a96632229ca6.PNG)
 
-2- 3-D Scatter Plot of PCA Data:
+- 3-D Scatter Plot of PCA Data:
 
 ![scatter](https://user-images.githubusercontent.com/88908758/147253079-fd23b4cb-904e-45b7-b982-687f577e4b53.PNG)
 
-3- Scatterplot of Tradable Currencies:
+- Scatterplot of Tradable Currencies:
 
 ![hvplot](https://user-images.githubusercontent.com/88908758/147253096-5e7c9939-c322-4d63-800d-3b219f505d70.PNG)
